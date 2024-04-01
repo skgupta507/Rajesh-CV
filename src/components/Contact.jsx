@@ -68,7 +68,7 @@ const Contact = () => {
               </Hinge>
               <h3 className="text-zinc-700 font-semibold">Email</h3>
               <span className="text-center break-all">
-                sunilk98850@gmail.com
+                rajeshkumarchauhan110@gmail.com
               </span>
               <a
                 href="https://mail.google.com"

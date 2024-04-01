@@ -20,12 +20,11 @@ const About = () => {
         <div className="max-lg:flex block max-lg:flex-col mt-0 max-lg:items-center max-lg:mt-10">
           <Info />
           <p className="max-lg:text-center px-0 max-md:px-3">
-            I create web pages with UI / UX user interface. My interest in
-            programming & web development started in 2022 when I decided to see
-            myself doing something I love. Although I have no related degree yet
-            in this field, still at this point I have been able to claim myself
-            as a Full Stack developer. I have come this far through my
-            self-struggle, strength, and never-ending adaption.
+                  With a keen eye for detail and a passion for organization, I specialize in creating professional-grade invoices, 
+                  optimizing photo sizing and prints, and crafting bespoke letterheads for businesses.
+                  As a Microsoft Office enthusiast, I leverage the power of Excel sheets and other Office applications to streamline processes and enhance efficiency. 
+                  With a dedication to delivering top-notch results, I help businesses elevate their brand image through meticulous design and precise execution.
+
           </p>
           <a
             download=""
